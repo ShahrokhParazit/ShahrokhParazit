@@ -5,7 +5,9 @@
  
 #### Content :
 
+<hr/>
 > Script Tools  
+<hr/>
 
 ### Telegram Username
 
@@ -24,4 +26,4 @@
 <div align="center">
     <img height="125px" style="border:none; border-radius:5px;" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=ShahrokhParazit&theme=gruvbox_light&layout=compact"/>
 </div>
-<hr/> kos
+

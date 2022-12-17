@@ -13,6 +13,8 @@
   <img align="left" alt="Telegram username" width="30px" src="https://www.iconfinder.com/icons/3069742/download/png/512" style="margin:25px;" />
 @Mostahkame </a>
 
+# View Page
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Telepathic}/count.svg" /></p>
 
 # Status
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahrokhParazit&show_icons=true&theme=gotham" alt="Status" />
